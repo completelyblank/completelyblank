@@ -1,4 +1,5 @@
-# Hello, I'm [Muhammad Raza Khan], or as my Github profile says: [CompletelyBlank] 👋
+# Hello, I'm Muhammad Raza Khan, or as my Github profile says:
+CompletelyBlank 
 
 ## About Me
 

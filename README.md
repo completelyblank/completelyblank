@@ -1,5 +1,5 @@
 # Hello, I'm Muhammad Raza Khan, or as my Github profile says:
-CompletelyBlank 
+# CompletelyBlank 
 
 ## About Me
 
@@ -19,8 +19,8 @@ I'm a sophomore at FAST University, passionate about front-end development, Reac
 
 ## Connect with Me!
 
-- 💬 Let's connect on [LinkedIn][https://www.linkedin.com/in/muhammad-raza-khan-95ab45242/] and discuss exciting opportunities.
-- 📫 Feel free to reach out to me via email at [muhammadrkhan272@gmail.com].
+- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/muhammad-raza-khan-95ab45242/) and discuss exciting opportunities.
+- 📫 Feel free to reach out to me via email at: muhammadrkhan272@gmail.com.
 
 ## My Badges:
 

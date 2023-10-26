@@ -3,7 +3,7 @@
 
 ## About Me
 
-I'm a sophomore at FAST University, passionate about front-end development, React.js, and exploring various technologies. My journey in the tech world has been an testing but exciting. Here are some key highlights of my journey:
+I'm a sophomore at FAST University, passionate about front-end development, React.js, and exploring various technologies. My journey in the tech world has been testing but exciting. Here are some key highlights of my journey:
 
 - 🚀 I have a strong interest in React.js and front-end development. I love creating engaging user interfaces and pixel art animations in my projects.
 - 📱 I've had some hands-on experience with Flutter and I'm looking to dive deeper into mobile app development.

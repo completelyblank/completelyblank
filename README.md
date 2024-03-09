@@ -3,18 +3,21 @@
 
 ## About Me
 
-I'm a sophomore at FAST University, passionate about front-end development, React.js, and exploring various technologies. My journey in the tech world has been testing but exciting. Here are some key highlights of my journey:
+I'm a sophomore at FAST University, currently delving into various aspects of technology and web development. My journey in the tech world has been both testing and exciting, marked by continuous learning and exploration. Here are some key highlights of my journey:
 
-- 🚀 I have a strong interest in React.js and front-end development. I love creating engaging user interfaces and pixel art animations in my projects.
-- 📱 I've had some hands-on experience with Flutter and I'm looking to dive deeper into mobile app development.
-- 🕸️ I've dabbled in web scraping using Python, and I'm familiar with Django, HTML, CSS, and JavaScript.
-- 💼 My goal is to become a full-stack developer, and I'm excited about exploring the world of back-end development.
+- 🚀 I have hands-on experience in building MERN stack CRUD applications, showcasing my proficiency in MongoDB, Express.js, React.js, and Node.js.
+- 🌐 Explored API integration within MERN stack websites, gaining practical insights into connecting front-end applications with back-end services.
+- 🎮 Created a level for a Flutter app game, although the project is currently shelved due to the limitations of Flutter in supporting game development.
+- 🧪 Tested the AviZ library, expanding my toolkit for data visualization and exploration.
+- 📊 Currently venturing into working with datasets for visualization, combining programming skills with a data-driven approach.
+- 🎓 Studying Operating Systems at FAST NUCES as a sophomore, eager to delve deeper into the core of computing.
 
 ## Current Focus
 
-- 🔧 Building awesome web applications using React.js.
+- 🔧 Building awesome web applications using different Stacks and implementing Cloud Computing.
 - 📚 Learning more about back-end development, databases, and server-side technologies.
 - 🌐 Exploring web scraping and data analysis.
+- 📈 Working on datasets and visualization projects.
 - 🌟 Experimenting with pixel art animations in my projects.
 
 ## Connect with Me!
@@ -24,14 +27,13 @@ I'm a sophomore at FAST University, passionate about front-end development, Reac
 
 ## My Badges:
 
-[![React.js](https://img.shields.io/badge/React.js-Beginner-blue)](https://reactjs.org/)
-[![Flutter](https://img.shields.io/badge/Flutter-Beginner-blue)](https://flutter.dev/)
-[![Python](https://img.shields.io/badge/Python-Web%20Scraping-green)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-Beginner-green)](https://www.djangoproject.com/)
-[![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Intermediate-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Pixel Art](https://img.shields.io/badge/Pixel%20Art-Enthusiast-ff69b4)](https://en.wikipedia.org/wiki/Pixel_art)
-[![Full Stack](https://img.shields.io/badge/Full%20Stack-Explorer-brightgreen)](https://en.wikipedia.org/wiki/Full_stack)
+[![MERN Stack](https://img.shields.io/badge/MERN%20Stack-Developer-blueviolet)](https://www.mongodb.com/mern-stack)
+[![API Integration](https://img.shields.io/badge/API%20Integration-Practitioner-blue)](https://en.wikipedia.org/wiki/API)
+[![Flutter](https://img.shields.io/badge/Flutter-Game%20Development-orange)](https://flutter.dev/)
+[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Explorer-green)](https://en.wikipedia.org/wiki/Data_visualization)
+[![AviZ Library](https://img.shields.io/badge/AviZ%20Library-Tester-yellow)](https://aviz.io/)
+[![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Certified-green)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Frontend](https://img.shields.io/badge/Frontend%20Development-Certified-blue)](https://en.wikipedia.org/wiki/Front-end_web_development)
+[![D3 Library](https://img.shields.io/badge/D3%20Library-Projects-yellowgreen)](https://d3js.org/)
 
 Feel free to reach out if you share my interests or have any exciting projects in mind. Let's code and create amazing things together! 🚀
-

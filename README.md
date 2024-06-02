@@ -1,45 +1,53 @@
-# CompletelyBlank (Muhammad Raza Khan)
+# CompletelyBlank (Muhammad Raza Khan) 🤖
 
 ![Alt Text](https://github.com/completelyblank/Web-Design/blob/main/Animations_CSS/github_gif.gif)
 
-## About Me
+## About Me 🤔
+I'm a Sophomore at FAST University, exploring various aspects of technology and web development. My journey in the tech world has been both testing and exciting, marked by continuous learning and exploration. I'm passionate about building innovative solutions, and I'm always on the lookout for new challenges. 💻  
+*"The only way to do great work is to love what you do."* - Steve Jobs
 
-I'm a Sophomore at FAST University, exploring various aspects of technology and web development. My journey in the tech world has been both testing and exciting, marked by continuous learning and exploration.
+## Technical Skills 💪
+- **MERN stack** CRUD applications
+- **API integration** within MERN stack websites
+- **Flutter** app development (game level creation)
+- **AviZ library** testing (data visualization)
+- **Operating Systems:** Ubuntu, studying at FAST NUCES
 
-## Technical Skills
+## Current Focus 🔍
+- Building web applications using different Stacks and implementing Cloud Computing
+- Learning back-end development, databases, and server-side technologies
+- Exploring web scraping and data analysis
+- Working on datasets and visualization projects
+- Experimenting with pixel art animations
 
-* MERN stack CRUD applications
-* API integration within MERN stack websites
-* Flutter app development (game level creation)
-* AviZ library testing (data visualization)
-* Operating Systems (Ubuntu, studying at FAST NUCES)
+## Connect with Me 📲
+- **LinkedIn:** [www.linkedin.com/in/muhammad-raza-khan-95ab45242](#)
+- **Email:** [Your Email](muhammadrkhan272@gmail.com)
 
-## Current Focus
+## Badges 🏆
+![Badge 1](#) ![Badge 2](#) ![Badge 3](#) ![Badge 4](#) ![Badge 5](#) ![Badge 6](#) ![Badge 7](#) ![Badge 8](#) ![Badge 9](#)
 
-* Building web applications using different Stacks and implementing Cloud Computing
-* Learning back-end development, databases, and server-side technologies
-* Exploring web scraping and data analysis
-* Working on datasets and visualization projects
-* Experimenting with pixel art animations
+## Upcoming Projects 🚀
+- **Machine Learning**
+- **Cyber Security** (Kali Linux)
+- **Raspberry Pi** (automatas)
 
-## Connect with Me:
+*"The future belongs to those who believe in the beauty of their dreams."* - Eleanor Roosevelt
 
-* LinkedIn: [https://www.linkedin.com/in/muhammad-raza-khan-95ab45242/](https://www.linkedin.com/in/muhammad-raza-khan-95ab45242/)
-* Email: [muhammadrkhan272@gmail.com](mailto:muhammadrkhan272@gmail.com)
+## Additional Interests and Hobbies 🌟
+- Enjoying frontend development using **Canva** for animations
+- **Football**, **Badminton**, and **Table Tennis**
+- **Writing** and **Reading**
+- Spending time with friends and riding my **bike**
+- Practicing **Calisthenics**
+- Loving my **cats**
+- Supporting **Real Madrid**
+- **Drawing** and **trying to learn cooking**
+- Aspiring to go **camping** or **traveling** around first **Pakistan** then the **world**
+- Creating original content: **music**, **background images**, **glow art**, **pixel art animations**, **CSS animations**, and more
 
-## Badges:
+![Tech Background](#)
 
-[![MERN Stack](https://img.shields.io/badge/MERN%20Stack-Developer-blueviolet)](https://www.mongodb.com/mern-stack)
-[![API Integration](https://img.shields.io/badge/API%20Integration-Practitioner-blue)](https://en.wikipedia.org/wiki/API)
-[![Flutter](https://img.shields.io/badge/Flutter-Game%20Development-orange)](https://flutter.dev/)
-[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Explorer-green)](https://en.wikipedia.org/wiki/Data_visualization)
-[![AviZ Library](https://img.shields.io/badge/AviZ%20Library-Tester-yellow)](https://aviz.io/)
-[![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Certified-green)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Frontend](https://img.shields.io/badge/Frontend%20Development-Certified-blue)](https://en.wikipedia.org/wiki/Front-end_web_development)
-[![D3 Library](https://img.shields.io/badge/D3%20Library-Projects-yellowgreen)](https://d3js.org/)
+- Please give Internship and Job xD
 
-## Upcoming Projects:
-
-* Machine Learning
-* Cyber Security (Kali Linux)
-* Raspberry Pi (automatas)
+If you share similar interests or have exciting projects, feel free to connect with me!

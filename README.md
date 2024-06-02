@@ -40,24 +40,24 @@ With a mind that's always racing and a heart that's always eager, I'm fueled by 
 ![Art Creation](https://img.shields.io/badge/Art%20Creation-Designer-purple)
 ![Robotics](https://img.shields.io/badge/Robotics-Explorer-blue)
 
-## Upcoming Projects 🚀
+## Upcoming Projects: 🚀
 - **Machine Learning**
 - **Cyber Security** (Kali Linux)
 - **Raspberry Pi** (automatas)
 
 *"Versatility is one of the few human traits that are universally admired."*  - Roger von Oech
 
-## Additional Interests and Hobbies 🌟
-- Enjoying frontend development using **Canva** for animations
-- **Football**, **Badminton**, and **Table Tennis**
-- **Writing** and **Reading**
-- Spending time with friends and riding my **bike**
-- Practicing **Calisthenics**
-- Loving my **cats**
-- Supporting **Real Madrid**
-- **Drawing** and **trying to learn cooking**
-- Aspiring to go **camping** or **traveling** around first **Pakistan** then the **world**
-- Creating original content: **music**, **background images**, **glow art**, **pixel art animations**, **CSS animations**, and more
+## Additional Interests and Hobbies: 🌟
+- Enjoying frontend development using **Canva** for animations.
+- **Football**, **Badminton**, and **Table Tennis**.
+- **Writing** and **Reading**.
+- Spending time with friends.
+- Practicing **Calisthenics**.
+- Loving my **cats**.
+- Supporting **Real Madrid**.
+- **Drawing** and **trying to learn cooking**.
+- Aspiring to go **camping** or **traveling** around **Pakistan** first then the **world**.
+- Creating original content: **music**, **background images**, **glow art**, **pixel art animations**, **CSS animations**, and more.
 
-Connect!
-Dopamine Booster.
+Connect with me!
+*Dopamine Booster.*

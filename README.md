@@ -2,11 +2,17 @@
 
 ![Alt Text](https://github.com/completelyblank/Web-Design/blob/main/Animations_CSS/github_gif.gif)
 
-## About Me 🤔
-I'm a Sophomore at FAST University, exploring various aspects of technology and web development. My journey in the tech world has been both testing and exciting, marked by continuous learning and exploration. I'm passionate about building innovative solutions, and I'm always on the lookout for new challenges. 💻  
-*"The only way to do great work is to love what you do."* - Steve Jobs
+## About Me:
+Sophomore at FAST University.
+Obsessed with exploring the ever-changing world of tech and web development. 
+My journey so far has been a wild ride, filled with ups and downs, but always driven by a passion for learning and a desire to push myself to be better.
+I love taking on new challenges and trying to master multiple skills at once - it's like a puzzle I can't resist solving. 
+Whether it's building innovative solutions, experimenting with new technologies, or creating art that comes to life, I'm always looking for ways to level up and make a meaningful impact.
+With a mind that's always racing and a heart that's always eager, I'm fueled by a steady stream of **caffeine** and a determination to become the best version of myself. Every day is a new chance to learn, grow, and create something amazing - so just:
+*Trynna do better.*  
 
-## Technical Skills 💪
+
+## Technical Skills:
 - **MERN stack** CRUD applications
 - **API integration** within MERN stack websites
 - **Flutter** app development (game level creation)

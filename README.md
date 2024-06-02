@@ -1,4 +1,4 @@
-# CompletelyBlank (Muhammad Raza Khan) 🤖
+# CompletelyBlank (Muhammad Raza Khan):
 
 ![Alt Text](https://github.com/completelyblank/Web-Design/blob/main/Animations_CSS/github_gif.gif)
 
@@ -22,7 +22,7 @@ I'm a Sophomore at FAST University, exploring various aspects of technology and 
 
 ## Connect with Me 📲
 - **LinkedIn:** [www.linkedin.com/in/muhammad-raza-khan-95ab45242](#)
-- **Email:** [Your Email](muhammadrkhan272@gmail.com)
+- **Email:** [Reach Out!](muhammadrkhan272@gmail.com)
 
 ## Badges 🏆
 [![Data Handling](https://img.shields.io/badge/Data%20Handling-Explorer-blue)]
@@ -39,7 +39,7 @@ I'm a Sophomore at FAST University, exploring various aspects of technology and 
 - **Cyber Security** (Kali Linux)
 - **Raspberry Pi** (automatas)
 
-*"The future belongs to those who believe in the beauty of their dreams."* - Eleanor Roosevelt
+*"Versatility is one of the few human traits that are universally admired."*  - Roger von Oech
 
 ## Additional Interests and Hobbies 🌟
 - Enjoying frontend development using **Canva** for animations

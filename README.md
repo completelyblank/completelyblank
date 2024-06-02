@@ -27,12 +27,12 @@ I'm a Sophomore at FAST University, exploring various aspects of technology and 
 ## Badges 🏆
 [![Data Handling](https://img.shields.io/badge/Data%20Handling-Explorer-blue)]
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Practitioner-orange)]
-[![Cyber Security](https://img.shields.io/badge/Cyber%20Security-Specialist-red)]
+[![Cyber Security](https://img.shields.io/badge/Cyber%20Security-Explorer-blue)]
 [![Front End](https://img.shields.io/badge/Front%20End%20Development-Certified-blue)]
-[![Back End](https://img.shields.io/badge/Back%20End%20Development-Expert-green)]
-[![DataBase](https://img.shields.io/badge/Data%20Base-Administrator-yellow)]
+[![Back End](https://img.shields.io/badge/Back%20End%20Development-Practitioner-orange)]
+[![DataBase](https://img.shields.io/badge/Data%20Base-Practitioner-orange)]
 [![Art Creation](https://img.shields.io/badge/Art%20Creation-Designer-purple)
-[![Robotics](https://img.shields.io/badge/Robotics-Engineer-gray)]
+[![Robotics](https://img.shields.io/badge/Robotics-Explorer-blue)]
 
 ## Upcoming Projects 🚀
 - **Machine Learning**

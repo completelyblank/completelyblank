@@ -27,8 +27,8 @@ With a mind that's always racing and a heart that's always eager, I'm fueled by 
 - Experimenting with pixel art animations
 
 ## Connect with Me 📲
-- **LinkedIn:** [www.linkedin.com/in/muhammad-raza-khan-95ab45242](#)
-- **Email:** [Reach Out!](muhammadrkhan272@gmail.com)
+- **LinkedIn:** [Connect:](www.linkedin.com/in/muhammad-raza-khan-95ab45242)
+- **Email:** [Reach Out:](muhammadrkhan272@gmail.com)
 
 ## Badges 🏆
 [![Data Handling](https://img.shields.io/badge/Data%20Handling-Explorer-blue)]
@@ -59,4 +59,5 @@ With a mind that's always racing and a heart that's always eager, I'm fueled by 
 - Aspiring to go **camping** or **traveling** around first **Pakistan** then the **world**
 - Creating original content: **music**, **background images**, **glow art**, **pixel art animations**, **CSS animations**, and more
 
-If you share similar interests or have exciting projects, feel free to connect with me!
+Connect!
+Dopamine Booster.

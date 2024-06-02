@@ -25,7 +25,14 @@ I'm a Sophomore at FAST University, exploring various aspects of technology and 
 - **Email:** [Your Email](muhammadrkhan272@gmail.com)
 
 ## Badges 🏆
-![Badge 1](#) ![Badge 2](#) ![Badge 3](#) ![Badge 4](#) ![Badge 5](#) ![Badge 6](#) ![Badge 7](#) ![Badge 8](#) ![Badge 9](#)
+[![Data Handling]((https://img.shields.io/badge/Data%20Handling-Explorer-blue)](https://en.wikipedia.org/wiki/Data_handling))
+[![Machine Learning]((https://img.shields.io/badge/Machine%20Learning-Practitioner-orange)](https://en.wikipedia.org/wiki/Machine_learning))
+[![Cyber Security]((https://img.shields.io/badge/Cyber%20Security-Specialist-red)](https://en.wikipedia.org/wiki/Cybersecurity))
+[![Front End]((https://img.shields.io/badge/Front%20End%20Development-Certified-blue)](https://en.wikipedia.org/wiki/Front-end_web_development))
+[![Back End]((https://img.shields.io/badge/Back%20End%20Development-Expert-green)](https://en.wikipedia.org/wiki/Back-end_web_development))
+[![DataBase]((https://img.shields.io/badge/Data%20Base-Administrator-yellow)](https://en.wikipedia.org/wiki/Database_administration))
+[![Art Creation]((https://img.shields.io/badge/Art%20Creation-Designer-purple)](https://en.wikipedia.org/wiki/Art_design))
+[![Robotics]((https://img.shields.io/badge/Robotics-Engineer-gray)](https://en.wikipedia.org/wiki/Robotics_engineering))
 
 ## Upcoming Projects 🚀
 - **Machine Learning**
@@ -45,9 +52,5 @@ I'm a Sophomore at FAST University, exploring various aspects of technology and 
 - **Drawing** and **trying to learn cooking**
 - Aspiring to go **camping** or **traveling** around first **Pakistan** then the **world**
 - Creating original content: **music**, **background images**, **glow art**, **pixel art animations**, **CSS animations**, and more
-
-![Tech Background](#)
-
-- Please give Internship and Job xD
 
 If you share similar interests or have exciting projects, feel free to connect with me!

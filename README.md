@@ -1,5 +1,7 @@
 # CompletelyBlank (Muhammad Raza Khan)
 
+![Alt Text](https://github.com/completelyblank/Web-Design/blob/main/Animations_CSS/github_gif.gif)
+
 ## About Me
 
 I'm a Sophomore at FAST University, exploring various aspects of technology and web development. My journey in the tech world has been both testing and exciting, marked by continuous learning and exploration.

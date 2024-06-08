@@ -1,63 +1,38 @@
-# CompletelyBlank (Muhammad Raza Khan):
-
 ![Alt Text](https://github.com/completelyblank/Web-Design/blob/main/Animations_CSS/github_gif.gif)
 
-## About Me:
-Sophomore at FAST University.
-Obsessed with exploring the ever-changing world of tech and web development. 
-My journey so far has been a wild ride, filled with ups and downs, but always driven by a passion for learning and a desire to push myself to be better.
-I love taking on new challenges and trying to master multiple skills at once - it's like a puzzle I can't resist solving. 
-Whether it's building innovative solutions, experimenting with new technologies, or creating art that comes to life, I'm always looking for ways to level up and make a meaningful impact.
-With a mind that's always racing and a heart that's always eager, I'm fueled by a steady stream of **caffeine** and a determination to become the best version of myself. Every day is a new chance to learn, grow, and create something amazing - so just:
-*Trynna do better.*  
+<h1 align="center">Hi 👋, I'm Muhammad Raza/Completely Blank</h1>
+<h3 align="center">A do it all coder from Pakistan.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=completelyblank&label=Profile%20views&color=0e75b6&style=flat" alt="completelyblank" /> </p>
 
-## Technical Skills:
-- **MERN stack** CRUD applications
-- **API integration** within MERN stack websites
-- **Flutter** app development (game level creation)
-- **AviZ library** testing (data visualization)
-- **Operating Systems:** Ubuntu, studying at FAST NUCES
+- 🔭 I’m currently working on **Terra Incognita**
 
-## Current Focus 🔍
-- Building web applications using different Stacks and implementing Cloud Computing
-- Learning back-end development, databases, and server-side technologies
-- Exploring web scraping and data analysis
-- Working on datasets and visualization projects
-- Experimenting with pixel art animations
+- 🌱 I’m currently learning **ML, MERN, MEAN, CyberSecurity, Robotics.**
 
-## Connect with Me 📲
-- **LinkedIn:** [Connect:](www.linkedin.com/in/muhammad-raza-khan-95ab45242)
-- **Email:** [Reach Out:](muhammadrkhan272@gmail.com)
+- 👯 I’m looking to collaborate on **Terra Incognita**
 
-## Badges 🏆
-![Data Handling](https://img.shields.io/badge/Data%20Handling-Explorer-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Practitioner-orange)
-![Cyber Security](https://img.shields.io/badge/Cyber%20Security-Explorer-blue)
-![Front End](https://img.shields.io/badge/Front%20End%20Development-Certified-blue)
-![Back End](https://img.shields.io/badge/Back%20End%20Development-Practitioner-orange)
-![DataBase](https://img.shields.io/badge/Data%20Base-Practitioner-orange)
-![Art Creation](https://img.shields.io/badge/Art%20Creation-Designer-purple)
-![Robotics](https://img.shields.io/badge/Robotics-Explorer-blue)
+- 🤝 I’m looking for help with **Cyber Security Projects**
 
-## Upcoming Projects: 🚀
-- **Machine Learning**
-- **Cyber Security** (Kali Linux)
-- **Raspberry Pi** (automatas)
+- 👨‍💻 All of my projects are available at [https://github.com/completelyblank](https://github.com/completelyblank)
 
-*"Versatility is one of the few human traits that are universally admired."*  - Roger von Oech
+- 💬 Ask me about **nothing please xD**
 
-## Additional Interests and Hobbies: 🌟
-- Enjoying frontend development using **Canva** for animations.
-- **Football**, **Badminton**, and **Table Tennis**.
-- **Writing** and **Reading**.
-- Spending time with friends.
-- Practicing **Calisthenics**.
-- Loving my **cats**.
-- Supporting **Real Madrid**.
-- **Drawing** and **trying to learn cooking**.
-- Aspiring to go **camping** or **traveling** around **Pakistan** first then the **world**.
-- Creating original content: **music**, **background images**, **glow art**, **pixel art animations**, **CSS animations**, and more.
+- 📫 How to reach me **muhammadrkhan272@gmail.com**
 
-Connect with me!
-*Dopamine Booster.*
+- ⚡ Fun fact **I love my cats.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/muhammad raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad raza" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/muhammad raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammad raza" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=completelyblank&show_icons=true&locale=en&layout=compact" alt="completelyblank" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=completelyblank&show_icons=true&locale=en" alt="completelyblank" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=completelyblank&" alt="completelyblank" /></p>
+

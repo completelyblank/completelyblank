@@ -3,7 +3,7 @@
 # 💫 About Me:
 -Terra Incognita<br>-Vulner<br>-ML and QA Certification<br>-Articles on ML and Cyber Security<br>-Leetcoding<br>-Researching into Hardware+Software<br>-Learning
 
-**Hobbies**
+# Hobbies:
 * **Gaming**:
 	+ Open World Gaming
 * **Sports**:

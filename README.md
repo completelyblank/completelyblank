@@ -1,6 +1,6 @@
 ![Alt Text](https://github.com/completelyblank/Web-Design/blob/main/Animations_CSS/github_gif.gif)
 
-# 💫 About Me:
+# About Me:
 -Junior at FAST University 🎓<br>-💻 Machine Learning (ML) and Natural Language Processing (NLP)<br>-🎨 Frontend development with a touch of pixel art and design<br>-🔒 Cybersecurity and encryption techniques<br>-📊 Data visualization and analysis<br><br>-When I'm not coding, you can find me:<br>-⚽ Enjoying football, or table tennis<br>-🎨 Expressing my creativity through sketching, art, and glow art<br>-🎵 Creating music or listening to podcasts<br>-📚 Reading manga or watching anime<br>-🏞️ Hiking, jogging or simply playing with my cats🐈<br><br>I'm excited to share my projects and articles with you.<br>Let's connect and create something amazing together! 💻
 
 

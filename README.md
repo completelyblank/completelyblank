@@ -1,4 +1,4 @@
-# 💫 About Me:
+# -> About Me:
 Driven but exploring diverse paths.<br>Diving into deep learning, grinding LeetCode, and integrating models into app and web development.<br>Writing helps me share my perspective on tackling challenges.<br>
 
 

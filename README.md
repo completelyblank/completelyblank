@@ -52,7 +52,8 @@ I like my code **playful**, my projects **serious**, and my hobbies a little bit
 
 > “Code, create, repeat. Life’s too short for just one thread.”
 
-![]((https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdremVvaGs4MjUxYW55aWgweDJhOXc0ZGsyanptY2NlanQ1M3RiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aDb0aO3fSalFqbC/giphy.gif))
+![Oreki](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdremVvaGs4MjUxYW55aWgweDJhOXc0ZGsyanptY2NlanQ1M3RiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aDb0aO3fSalFqbC/giphy.gif)
+
 
 
 # 💻 Tech Stack:

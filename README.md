@@ -3,7 +3,7 @@
 # Hi, I'm completelyblank 👋
 
 ## 🚀 About Me
-I'm a **Junior Software Engineer** and undergraduate at Fast NUCES, passionate about learning, building, and experimenting with code. I specialize in Node.js but love exploring diverse stacks including Flask, FastAPI, Rust, and even C.
+I'm a **Junior** undergraduate at Fast NUCES, passionate about learning, building, and experimenting with code. I specialize in Node.js but love exploring diverse stacks including Flask, FastAPI, Rust, and even C.
 
 - 🏫 Junior @ Fast NUCES
 - 🧑‍💻 Software Engineer (in the making!)

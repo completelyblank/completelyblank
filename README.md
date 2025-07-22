@@ -20,7 +20,7 @@ I'm a **Junior** undergraduate at Fast NUCES, passionate about learning, buildin
 
 ## 🌟 Featured Project
 
-![image](https://github.com/user-attachments/assets/6afb9b4e-02da-4d9f-a7f5-32af94ae8553)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4b6d72c9-95a1-46bf-abb8-2a8c0aa1ae7a" />
 
 **[Multedio](https://github.com/completelyblank/Multedio):**  
 A Lightroom duplicate for Linux, built with C (GTK & OpenCV), focusing on batch processing, multiprocessing, and multithreading.  

@@ -2,18 +2,18 @@
 
 # Hi, I'm completelyblank 👋
 
-## 🚀 About Me
+## About Me
 I'm a **Junior** undergraduate at Fast NUCES, passionate about learning, building, and experimenting with code. I specialize in Node.js but love exploring diverse stacks including Flask, FastAPI, Rust, and even C.
 
 - 🏫 Junior @ Fast NUCES
-- 🧑‍💻 Software Engineer (in the making!)
+- 🧑‍💻 Software Engineer (in the making)
 - ✨ Always open to new ideas, collaborations, and challenges!
 
 ---
 
 ## 🛠️ Tech Stack
-- **Main:** Node.js
-- **Also wrangled:** Flask, FastAPI, Rust, C (GTK & OpenCV)
+- **Main:** Node.js/Next.js
+- **Also wrangled:** Flask, FastAPI, Rust, C (GTK & OpenCV), C++ (SFML), Java (Springboot) 
 - **Favorite OS concepts:** Multiprocessing, Multithreading, & Inter-Process Communication
 
 ---
@@ -34,7 +34,7 @@ A Lightroom duplicate for Linux, built with C (GTK & OpenCV), focusing on batch 
 
 ---
 
-## 🎨 Hobbies & Interests
+## Hobbies & Interests
 When I’m not coding, you’ll probably find me:
 - ⚽ Kicking a football or smashing a table tennis ball
 - 🎨 Designing, sketching traditional art, or making pixel art
@@ -42,11 +42,6 @@ When I’m not coding, you’ll probably find me:
 - 🐱 Hanging out with cats
 - 📖 Binge-reading anime, manga, manhwa, novels, and even the odd conspiracy theory
 - 🪁 Battling Beyblades or just chasing after new knowledge
-
----
-
-## 📝 Fun Fact
-I like my code **playful**, my projects **serious**, and my hobbies a little bit of both.
 
 ---
 

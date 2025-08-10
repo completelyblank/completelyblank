@@ -2,50 +2,53 @@
 
 # Hi, I'm completelyblank 👋
 
-## About Me
-I'm a **Junior** undergraduate at Fast NUCES, passionate about learning, building, and experimenting with code. I specialize in Node.js but love exploring diverse stacks including Flask, FastAPI, Rust, and even C.
-
-- 🏫 Junior @ Fast NUCES
-- 🧑‍💻 Software Engineer (in the making)
-- ✨ Always open to new ideas, collaborations, and challenges!
+🎓 **Senior Undergraduate @ FAST NUCES**  
+💻 **Node.js / Next.js** specialist | Exploring Flask, FastAPI, Rust, C/C++, Java (Spring Boot)  
+🚀 Passionate about building, experimenting, and solving problems across stacks.
 
 ---
 
-## 🛠️ Tech Stack
-- **Main:** Node.js/Next.js
-- **Also wrangled:** Flask, FastAPI, Rust, C (GTK & OpenCV), C++ (SFML), Java (Springboot) 
-- **Favorite OS concepts:** Multiprocessing, Multithreading, & Inter-Process Communication
+## 🛠 Tech Stack
+**Main:** Node.js / Next.js  
+**Also worked with:** Flask, FastAPI, Rust, C (GTK & OpenCV), C++ (SFML), Java (Spring Boot)  
+**Tools:** AWS, Firebase, Supabase, PostgreSQL, Docker, Kubernetes, GitHub Actions, Prometheus, Grafana  
 
 ---
 
-## 🌟 Featured Project
-
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4b6d72c9-95a1-46bf-abb8-2a8c0aa1ae7a" />
-
-**[Multedio](https://github.com/completelyblank/Multedio):**  
-A Lightroom duplicate for Linux, built with C (GTK & OpenCV), focusing on batch processing, multiprocessing, and multithreading.  
-> "Because your photos deserve speed, power, and a touch of chaos."
-
----
-
-## 📚 Find Me Elsewhere
-- 📝 [Medium](https://medium.com/@muhammadrkhan272)
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-r-95ab45242/)
+## 🌟 Featured Projects
+- **[Multedio](https://github.com/completelyblank/Multedio)** – Lightroom alternative for Linux in C (GTK & OpenCV) with batch processing & multithreading.  
+- **Opticode** – Code refactoring & mentorship platform.  
+- **StockPulse** – Spring Boot + Angular stock trading simulator with real-time leaderboards & news.  
+- **StudyBuddy** – Next.js platform with matchmaking & recommendation algorithms, WebSockets, Konva.  
+- **SIMPACT ’25** – Oral cancer detection with MobileNetV3 + Flask web app.
 
 ---
 
-## Hobbies & Interests
-When I’m not coding, you’ll probably find me:
-- ⚽ Kicking a football or smashing a table tennis ball
-- 🎨 Designing, sketching traditional art, or making pixel art
-- 🎮 Creating games (and sometimes music for them!)
-- 🐱 Hanging out with cats
-- 📖 Binge-reading anime, manga, manhwa, novels, and even the odd conspiracy theory
-- 🪁 Battling Beyblades or just chasing after new knowledge
+## 📜 Certifications
+- **freeCodeCamp:** Responsive Web Design, JS Algorithms & DS, Frontend Libraries, Data Visualization, Data Analysis, Backend Dev  
+- **IBM DevOps & Software Engineering Professional Certificate** (Cloud, Agile, Linux, Docker/K8s, Python & Flask, Git)  
+- **AWS:** S3 Basics, VPC Creation | **KodeKloud:** AWS ECS  
+- **HackerRank:** SQL (Basic & Intermediate), Java (Basic)  
+- **Coursera:** Business Model Canvas (Kennesaw), Intro to RAG (Duke)
 
 ---
 
-> “Code, create, repeat. Life’s too short for just one thread.”
+## 📚 Medium Articles
+- [Understanding KNN](https://medium.com/@muhammadrkhan272)  
+- The Theory on Neural Networks  
+- Divisions into Patterns: Leetcode 101  
+- Data Cleaning & Preprocessing
+
+---
+
+## 🌐 Find Me
+- 📝 [Medium](https://medium.com/@muhammadrkhan272)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-r-95ab45242/)  
+- 💻 [GitHub](https://github.com/completelyblank)  
+
+---
+
+> **“Code, create, repeat. Life’s too short for just one thread.”**
 
 ![Oreki](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdremVvaGs4MjUxYW55aWgweDJhOXc0ZGsyanptY2NlanQ1M3RiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aDb0aO3fSalFqbC/giphy.gif)
 

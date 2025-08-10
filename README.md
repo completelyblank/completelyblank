@@ -17,10 +17,10 @@
 
 ## 🌟 Featured Projects
 - **[Multedio](https://github.com/completelyblank/Multedio)** – Lightroom alternative for Linux in C (GTK & OpenCV) with batch processing & multithreading.  
-- **Opticode** – Code refactoring & mentorship platform.  
-- **StockPulse** – Spring Boot + Angular stock trading simulator with real-time leaderboards & news.  
-- **StudyBuddy** – Next.js platform with matchmaking & recommendation algorithms, WebSockets, Konva.  
-- **SIMPACT ’25** – Oral cancer detection with MobileNetV3 + Flask web app.
+- **[Opticode](https://opticode-nu.vercel.app/)** – Code refactoring & mentorship platform.  
+- **[StockPulse](https://github.com/completelyblank/StockPulse)** – Spring Boot + Angular stock trading simulator with real-time leaderboards & news.  
+- **[StudyBuddy](https://studybuddy-mjmf.vercel.app/)** – Next.js platform with matchmaking & recommendation algorithms, WebSockets, Konva.
+- **[Serenity](https://github.com/completelyblank/Serenity)** - secure, personalized, and engaging space for users to log their moods, earn Mood Tokens, and unlock features like mindfulness exercises, community interaction, and profile customization.
 
 ---
 
@@ -33,8 +33,8 @@
 
 ---
 
-## 📚 Medium Articles
-- [Understanding KNN](https://medium.com/@muhammadrkhan272)  
+## [📚 Medium Articles](https://medium.com/@muhammadrkhan272)
+- Understanding KNN  
 - The Theory on Neural Networks  
 - Divisions into Patterns: Leetcode 101  
 - Data Cleaning & Preprocessing

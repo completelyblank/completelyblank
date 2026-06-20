@@ -1,73 +1,202 @@
-![Profile Banner](https://avatars.githubusercontent.com/u/105001837?v=4)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2943,55:1D4ED8,100:D97706&height=220&section=header&text=Muhammad%20Raza%20Khan&fontSize=70&fontAlignY=42&desc=Software%20Engineer%20%7C%20Backend%20Services%20%7C%20System%20Design&descAlignY=62&descSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-# Hi, I'm completelyblank 👋
+<div align="center">
 
-🎓 **Senior Undergraduate @ FAST NUCES**  
-💻 **Node.js / Next.js** specialist | Exploring Flask, FastAPI, Rust, C/C++, Java (Spring Boot)  
-🚀 Passionate about building, experimenting, and solving problems across stacks.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F59E0B&center=true&vCenter=true&width=640&lines=Software+Engineer;Backend+Services+%26+REST+APIs;System+Design+%26+Database+Architecture;GenAI+%7C+Agentic+Infrastructure" alt="Typing SVG" />
 
----
+<br/>
 
-## 🛠 Tech Stack
-**Main:** Node.js / Next.js  
-**Also worked with:** Flask, FastAPI, Rust, C (GTK & OpenCV), C++ (SFML), Java (Spring Boot)  
-**Tools:** AWS, Firebase, Supabase, PostgreSQL, Docker, Kubernetes, GitHub Actions, Prometheus, Grafana  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/muhammad-r/](https://www.linkedin.com/in/muhammad-r-95ab45242/))
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrkhan272@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/completelyblank)
 
----
+<br/>
 
-## 🌟 Featured Projects
-- **[Multedio](https://github.com/completelyblank/Multedio)** – Lightroom alternative for Linux in C (GTK & OpenCV) with batch processing & multithreading.  
-- **[Opticode](https://opticode-nu.vercel.app/)** – Code refactoring & mentorship platform.  
-- **[StockPulse](https://github.com/completelyblank/StockPulse)** – Spring Boot + Angular stock trading simulator with real-time leaderboards & news.  
-- **[StudyBuddy](https://studybuddy-mjmf.vercel.app/)** – Next.js platform with matchmaking & recommendation algorithms, WebSockets, Konva.
-- **[Serenity](https://github.com/completelyblank/Serenity)** - secure, personalized, and engaging space for users to log their moods, earn Mood Tokens, and unlock features like mindfulness exercises, community interaction, and profile customization.
+![Now](https://img.shields.io/badge/NOW-AI_Intern_%40_Systems_Ltd-1B5EEA?style=for-the-badge&labelColor=0D3B8E&logoColor=white)
+&nbsp;
+![TA](https://img.shields.io/badge/TA-AI_Teacher_Assistant_%40_FAST--NUCES-C0272D?style=for-the-badge&labelColor=8B0000&logoColor=white)
+&nbsp;
+![Prev](https://img.shields.io/badge/PREV-Backend_Intern_%40_CDC_Pakistan-8B5CF6?style=for-the-badge&labelColor=5B21B6&logoColor=white)
 
----
+<br/>
 
-## 📜 Certifications
-- **freeCodeCamp:** Responsive Web Design, JS Algorithms & DS, Frontend Libraries, Data Visualization, Data Analysis, Backend Dev  
-- **IBM DevOps & Software Engineering Professional Certificate** (Cloud, Agile, Linux, Docker/K8s, Python & Flask, Git)  
-- **AWS:** S3 Basics, VPC Creation | **KodeKloud:** AWS ECS  
-- **HackerRank:** SQL (Basic & Intermediate), Java (Basic)  
-- **Coursera:** Business Model Canvas (Kennesaw), Intro to RAG (Duke)
+![FAST](https://img.shields.io/badge/BS_Computer_Science-FAST--NUCES_Karachi_(2022--2026)-1A56A0?style=for-the-badge&labelColor=0D3366&logoColor=white)
 
----
+</div>
 
-## [📚 Medium Articles](https://medium.com/@muhammadrkhan272)
-- Understanding KNN  
-- The Theory on Neural Networks  
-- Divisions into Patterns: Leetcode 101  
-- Data Cleaning & Preprocessing
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A2943,55:1D4ED8,100:D97706&height=4&width=1500" width="100%"/>
 
----
+Computer Science Graduate '26 @ **FAST-NUCES Karachi**, with a core focus on backend engineering, real-time systems, and scalable infrastructure. Proficient in architecting REST APIs, database layers, and production-ready deployments. Currently serving as an **Artificial Intelligence Intern at Systems Ltd**. Driven by clean code, solid architecture, and getting things shipped.
 
-## 🌐 Find Me
-- 📝 [Medium](https://medium.com/@muhammadrkhan272)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-r-95ab45242/)  
-- 💻 [GitHub](https://github.com/completelyblank)  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A2943,55:1D4ED8,100:D97706&height=4&width=1500" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=0&color=D97706&repeat=false&vCenter=true&width=180&height=40&lines=Tech+Stack" />
 
-> **“Code, create, repeat. Life’s too short for just one thread.”**
+<br/>
 
-![Oreki](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdremVvaGs4MjUxYW55aWgweDJhOXc0ZGsyanptY2NlanQ1M3RiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aDb0aO3fSalFqbC/giphy.gif)
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
+**Frameworks**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=completelyblank&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=completelyblank&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=completelyblank&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=completelyblank&theme=aura&no-frame=false&no-bg=true&margin-w=4)
+**Developer Tools & Databases**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=completelyblank&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=completelyblank&icon=0&color=9)](https://visitcount.itsvg.in)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A2943,55:1D4ED8,100:D97706&height=4&width=1500" width="100%"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=0&color=D97706&repeat=false&vCenter=true&width=140&height=40&lines=Projects" />
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Opticode — FYP
+Full-stack collaborative coding and mentorship platform bridging the gap between isolated LLM-dependent learning and real human mentorship. Analyzes users' public GitHub repositories via **CodeBERT embeddings** (stored in ChromaDB) to profile technical expertise, then runs constrained K-Means clustering and stratified squad formation to match mentees with mentors by domain alignment and seniority score. A hybrid recommendation engine suggests personalized coding challenges against a PostgreSQL challenge store. Real-time collaborative editing is powered by **WebSockets** with Monaco Editor as the shared interface. **Self-hosted Judge0** on DigitalOcean handles secure code compilation and execution. AI-assisted refactoring via Google AI Studio flags inefficiencies and explains improvements inline. Follows a hybrid architecture — Next.js monolith on Vercel for core features, with independently deployed microservices for matching, embedding, and collaboration. Praised by multiple industry judges as startup-ready; one drew comparisons to approaches being explored at Stanford.
+ 
+`Next.js` `WebSockets` `CodeBERT` `ChromaDB` `PostgreSQL` `MongoDB` `Judge0` `GitHub OAuth` `Google AI Studio`
+ 
+</td>
+<td width="50%" valign="top">
+
+### StockPulse — Trading Simulator
+Real-time financial market platform built during internship at CDC Pakistan. Simulates transactional market fluctuations, salary modeling, stock news, and leaderboard rankings using a structured enterprise backend.
+
+`Spring Boot` `Java` `PostgreSQL` `Angular`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Serenity — Wellness Platform
+Full-stack mental wellness platform with secure mood logging, a Hugging Face NLP pipeline for sentiment insights, and WebSocket-powered real-time community chat.
+
+`React` `Node.js` `Express.js` `Oracle DB` `WebSockets`
+
+</td>
+<td width="50%" valign="top">
+
+### Multedio — Lightroom Duplicate
+Full-featured desktop image editor built in C with GTK+ and OpenCV, modeled after Adobe Lightroom. Supports brightness, contrast, color grading, cropping, noise reduction, sharpening, vignette, tint, exposure, and saveable presets — all with real-time rendering. Architected around POSIX multithreading, multiprocessing, and IPC to handle concurrent processing queues without blocking the UI. Recognized by faculty and shared across departments at FAST-NUCES.
+ 
+`C` `GTK+` `OpenCV` `Multithreading` `Multiprocessing` `IPC`
+ 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+### F.A.M — Fault-Aware Energy Management
+AI-driven smart home energy management system achieving up to **20% energy savings**. Bayesian Ridge regression (92% accuracy) predicts consumption levels and kWh estimates. A Decision Tree classifier recommends optimal appliance states based on real-time temperature, humidity, and time data from the Open-Meteo API. A CSP solver enforces constraints — max 3 appliances ON, AC/Oven mutual exclusion — and resolves conflicts automatically. Visualized via PowerCast graphs on a React dashboard with live toggle controls.
+ 
+`Python` `Flask` `React` `MongoDB` `scikit-learn` `CSP`
+ 
+</td>
+<td width="50%" valign="top">
+
+</td>
+<td width="50%" valign="top">
+
+### SIMPACT '25 — Oral Cancer Screening
+Early detection tool for oral cancer targeted at Lady Health Workers in rural Pakistan. Uses MobileNetV3 (Keras/TFLite) for image-based screening via a lightweight web interface. 3rd Prize Winner at AKU.
+
+`Python` `Flask` `MobileNetV3` `TFLite` `HTML/CSS/JS`
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A2943,55:1D4ED8,100:D97706&height=4&width=1500" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=0&color=D97706&repeat=false&vCenter=true&width=200&height=40&lines=Certifications" />
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**IBM DevOps & Software Engineering** — IBM  
+15-course professional certificate covering DevOps, cloud computing, Agile/Scrum, Docker, Kubernetes, Linux, Git, and building AI applications with Python and Flask.
+
+</td>
+<td width="50%" valign="top">
+
+**AWS & Cloud** — Coursera / KodeKloud  
+AWS ECS, AWS S3 Basics, and Creating a Virtual Private Cloud (VPC) — cloud infrastructure, storage, and deployment fundamentals.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**HackerRank Skill Certifications**  
+SQL (Basic), SQL (Intermediate), Java (Basic) — demonstrating proficiency in database querying and core Java.
+
+</td>
+<td width="50%" valign="top">
+
+**freeCodeCamp** — 6 Certifications  
+Responsive Web Design, JavaScript Algorithms & Data Structures, Frontend Dev Libraries, Data Visualization, Data Analysis, Backend Development.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Introduction to RAG** — Duke University  
+Retrieval-Augmented Generation foundations and application patterns.
+
+</td>
+<td width="50%" valign="top">
+
+**Business Model Canvas** — Kennesaw University  
+Startup strategy, value proposition design, and lean business modeling.
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A2943,55:1D4ED8,100:D97706&height=4&width=1500" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=0&color=D97706&repeat=false&vCenter=true&width=160&height=40&lines=DSA+Progress" />
+
+<br/>
+
+<div align="center">
+
+![Leetcode](https://img.shields.io/badge/LeetCode-138_Solved_(91E_|_39M_|_8H)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+&nbsp;
+![DataLemur](https://img.shields.io/badge/DataLemur-31_Solved_(21E_|_10M)-4B8BBE?style=for-the-badge&logoColor=white)
+&nbsp;
+![Neetcode](https://img.shields.io/badge/Neetcode-10_Solved-brightgreen?style=for-the-badge&logoColor=white)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,45:1D4ED8,100:1A2943&height=150&section=footer" width="100%"/>

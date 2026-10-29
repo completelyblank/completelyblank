@@ -26,7 +26,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E0F2FE,55:BAE6FD,100:38BDF8&height=4&width=1500" width="100%"/>
 
-Computer Science Graduate '26 @ **FAST-NUCES Karachi**, with a core focus on backend engineering, real-time systems, and scalable infrastructure. Proficient in architecting REST APIs, database layers, and production-ready deployments. Currently serving as an **Artificial Intelligence Intern at Systems Ltd**. Driven by clean code, solid architecture, and getting things shipped.
+Computer Science Graduate '26 @ **FAST-NUCES Karachi**, with a core focus on backend engineering, real-time systems, and scalable infrastructure. Proficient in architecting REST APIs, database layers, and production-ready deployments.
+Driven by clean code, solid architecture, and getting things shipped.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E0F2FE,55:BAE6FD,100:38BDF8&height=4&width=1500" width="100%"/>
 

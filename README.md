@@ -12,9 +12,9 @@
 
 <br/>
 
-![Now](https://img.shields.io/badge/NOW-AI_Intern_%40_Systems_Ltd-0369A1?style=for-the-badge&labelColor=0284C7&logoColor=white)
+![Prev](https://img.shields.io/badge/NOW-AI_Intern_%40_Systems_Ltd-0369A1?style=for-the-badge&labelColor=0284C7&logoColor=white)
 &nbsp;
-![TA](https://img.shields.io/badge/TA-AI_Teacher_Assistant_%40_FAST--NUCES-0284C7?style=for-the-badge&labelColor=0369A1&logoColor=white)
+![Prev-TA](https://img.shields.io/badge/TA-AI_Teacher_Assistant_%40_FAST--NUCES-0284C7?style=for-the-badge&labelColor=0369A1&logoColor=white)
 &nbsp;
 ![Prev](https://img.shields.io/badge/PREV-Backend_Intern_%40_CDC_Pakistan-38BDF8?style=for-the-badge&labelColor=0EA5E9&logoColor=white)
 
